@@ -5,10 +5,13 @@ backend is built with NodeJS express and is Using Notions's latest API for devel
 
 ## FRONT-END
 
-you can run on localhost [Localhost](http://localhost:3000/) or run in deployed website
+you can run on localhost [Localhost](http://localhost:3000/) or run in deployed website [Netlify](https://fluffy-heliotrope-833d3f.netlify.app/)
 
 ## BACKEND
 
 Server is deployed on Vercel
 API endpoint works like this
 `https://notion-api-teal.vercel.app/getblock/{BlockID}`
+
+example
+[NotionDB](https://notion-api-teal.vercel.app/getblock/cbfbebc9fbd243ff837ba1e665eef1d1)
